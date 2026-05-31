@@ -1,0 +1,9 @@
+{
+  "app": "custom_gds action",
+  "repo": "https://github.com/ttcodebot/ttgf-analog-single-rail",
+  "commit": "9ddd8284d4d9334b66081a203f7eb016bfa99291",
+  "workflow_url": "https://github.com/ttcodebot/ttgf-analog-single-rail/actions/runs/26721198181",
+  "project_id": 2,
+  "sort_id": 1780253247735,
+  "analog": true
+}
